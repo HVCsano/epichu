@@ -31,6 +31,25 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.4",
     "siteFonts": [],
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "Ez az oldal sütiket használ.",
+      "textButton": "Elfogadom"
+    },
+    "favicon": false,
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "gdpr": false,
     "uniqCompNum": 2,
     "versionPublish": "4.12.4"
   },
@@ -38,7 +57,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Epic Craft - Kezdőlap",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
